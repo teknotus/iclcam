@@ -1,0 +1,5 @@
+#! /bin/sh
+
+chgrp video /dev/awesome
+chmod g+rw dev/awesome
+
